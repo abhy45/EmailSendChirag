@@ -1,0 +1,8 @@
+﻿
+
+step 2 verification on krr dena hain 
+
+step 1 --  https://myaccount.google.com/apppasswords      iss website prr jakr login krna hain
+
+2- above website prr jakr -- App name dena hain - EmailSendChirag.exe  aur create prr click krna hain 
+3- PassKey generate ho jayegi
